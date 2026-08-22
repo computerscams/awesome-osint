@@ -186,6 +186,7 @@ algorithms, knowledgebase and AI technology.
 *Search engines that can be used to check if your data's been breached*
 
 * [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach, showing the sources; free searches, developer API and chat bots.
+* [ComputerScams](https://computerscams.com/has-my-password-been-hacked) - Free password breach checker to check if your password has appeared in a known data breach, plus tools for scam email and website detection.
 * [CredenShow](https://credenshow.com/) - Identify your compromised credentials before others do.
 * [HIB Ransomed](https://haveibeenransom.com/) - Because people have the right to know if their data has been leaked.
 * [HEROIC.NOW](https://heroic.com/) - Has your data been leaked on the dark web? Scan your identities for FREE.
